@@ -1,0 +1,46 @@
+
+body {
+	font-family: verdana;
+	margin: 0 auto;
+	padding: 10px 20px;
+	background: #E6E6E6;
+}
+
+h1 {
+	text-align: right;
+}
+
+h2 {
+	background-color: #999999;
+	color: white;
+}
+p {
+	font-family: arial;
+	font-size: 12px;
+
+}
+
+li {
+	font-size: 12px;
+}
+ 
+.zero {
+	background-color: #8A8A8B;
+	color: #47D1D1;
+	padding: 5px;
+	margin: 10px auto;
+}
+
+.one {
+	background-color: #8A8A8B;
+	color: #00CCCC;
+	padding: 5px;
+	margin: 10px auto;
+}
+
+.three {
+	background-color: #8A8A8B;
+	color: #009999;
+	padding: 5px;
+	margin: 10px auto;
+}
